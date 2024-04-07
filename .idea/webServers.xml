@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="343631e2-dd1c-4ec0-ba8b-f13f3b329d7c" name="ftp.h003303445.nichost.ru" url="http://ftp.h003303445.nichost.ru">
+        <fileTransfer rootFolder="/wp-content/themes/ecotc-theme" host="ftp.h003303445.nichost.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
